@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "03 : 00"; ObjectID = "17I-wz-7P0"; */
+"17I-wz-7P0.text" = "03 : 00";
+
+/* Class = "UILabel"; text = "초"; ObjectID = "31g-cF-J5n"; */
+"31g-cF-J5n.text" = "초";
+
+/* Class = "UINavigationItem"; title = "Boxing Timer"; ObjectID = "4CJ-QC-Qdp"; */
+"4CJ-QC-Qdp.title" = "Boxing Timer";
+
+/* Class = "UILabel"; text = "휴식시간"; ObjectID = "7jt-0D-wRH"; */
+"7jt-0D-wRH.text" = "휴식시간";
+
+/* Class = "UIButton"; normalTitle = "Setting >"; ObjectID = "9zO-J2-kfW"; */
+"9zO-J2-kfW.normalTitle" = "Setting >";
+
+/* Class = "UIButton"; normalTitle = "● RESET ●"; ObjectID = "AgE-bC-IiL"; */
+"AgE-bC-IiL.normalTitle" = "● RESET ●";
+
+/* Class = "UILabel"; text = "00 : 30"; ObjectID = "CcJ-MB-EkF"; */
+"CcJ-MB-EkF.text" = "00 : 30";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "DQo-iS-wns"; */
+"DQo-iS-wns.normalTitle" = "START";
+
+/* Class = "UIButton"; normalTitle = "● SAVE ●"; ObjectID = "Ewb-3R-Wrv"; */
+"Ewb-3R-Wrv.normalTitle" = "● SAVE ●";
+
+/* Class = "UIButton"; normalTitle = "< Timer"; ObjectID = "Log-jC-PbL"; */
+"Log-jC-PbL.normalTitle" = "< Timer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OkP-1h-A6c"; */
+"OkP-1h-A6c.text" = "Label";
+
+/* Class = "UILabel"; text = "라운드"; ObjectID = "Q1M-Bb-LMC"; */
+"Q1M-Bb-LMC.text" = "라운드";
+
+/* Class = "UILabel"; text = "분"; ObjectID = "VYO-7M-9a7"; */
+"VYO-7M-9a7.text" = "분";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wh5-Zd-cte"; */
+"Wh5-Zd-cte.text" = "Label";
+
+/* Class = "UILabel"; text = "운동시간"; ObjectID = "aPQ-7b-ygU"; */
+"aPQ-7b-ygU.text" = "운동시간";
+
+/* Class = "UILabel"; text = "분"; ObjectID = "ayF-eW-oCL"; */
+"ayF-eW-oCL.text" = "분";
+
+/* Class = "UILabel"; text = "Boxing Timer"; ObjectID = "eEm-kB-vzZ"; */
+"eEm-kB-vzZ.text" = "Boxing Timer";
+
+/* Class = "UILabel"; text = "03 : 00"; ObjectID = "iVf-2o-hlp"; */
+"iVf-2o-hlp.text" = "03 : 00";
+
+/* Class = "UILabel"; text = "초"; ObjectID = "lyJ-Bt-mHG"; */
+"lyJ-Bt-mHG.text" = "초";
+
+/* Class = "UILabel"; text = "Boxing Timer"; ObjectID = "pQw-49-eYp"; */
+"pQw-49-eYp.text" = "Boxing Timer";
+
+/* Class = "UILabel"; text = "1Round"; ObjectID = "rHi-xL-IjT"; */
+"rHi-xL-IjT.text" = "1Round";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "tPY-Hq-LTW"; */
+"tPY-Hq-LTW.text" = "12";
+
+/* Class = "UILabel"; text = "사운드 알림"; ObjectID = "w3d-bH-cUM"; */
+"w3d-bH-cUM.text" = "사운드 알림";
+
+/* Class = "UILabel"; text = "진동 알림"; ObjectID = "wHx-4B-Z6l"; */
+"wHx-4B-Z6l.text" = "진동 알림";
